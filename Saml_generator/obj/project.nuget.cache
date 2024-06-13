@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i99oRwquW4c=",
+  "success": true,
+  "projectFilePath": "/Users/qokajm/Documents/saml_generator_c#/Saml_generator/Saml_generator.csproj",
+  "expectedPackageFiles": [
+    "/Users/qokajm/.nuget/packages/bouncycastle.cryptography/2.4.0/bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "/Users/qokajm/.nuget/packages/system.formats.asn1/8.0.0/system.formats.asn1.8.0.0.nupkg.sha512",
+    "/Users/qokajm/.nuget/packages/system.security.cryptography.pkcs/8.0.0/system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "/Users/qokajm/.nuget/packages/system.security.cryptography.xml/8.0.1/system.security.cryptography.xml.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
